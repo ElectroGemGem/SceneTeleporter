@@ -1,5 +1,5 @@
 # SceneTeleporter (version 1.0.0)
-an attempt to re-implement back the /scene command with a feature to teleport to the start of the map <br>(using the maps `born_pos` metadata)
+an attempt to re-implement back the /scene command with a feature to teleport to the startpoint of the map <br>(using the maps `born_pos` metadata)
 (instead of just doing a guess-work and manually typing the positions..)
 
 this was built for GrassCutter server version 'grasscutter-1.4.3-dev', <br>earlier versions might not work
