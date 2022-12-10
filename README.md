@@ -8,7 +8,7 @@ this was built for GrassCutter server version 'grasscutter-1.4.3-dev', <br>earli
 ## important:
 Please do not leave domain via the "leave domain?" question promt, it will not teleport you right <br>
 you must use the scene teleporter commands each time you want to go from one scene to another... (except if you teleporting out back using the world map)
-<br>and also please do not teleport to scenes that are time-limited events scene,
+<br>and also please do not teleport to scenes that are old time-limited events scene from previous versions,
 since hoyoverse deleted those scenes data and you would just free fall endlessly into the map..
 <br> <br>
 huge thanks to: snoo x orang for helping me out, thanks man.
