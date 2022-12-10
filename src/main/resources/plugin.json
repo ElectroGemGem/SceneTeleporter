@@ -1,0 +1,12 @@
+{
+  "name": "SceneTeleporter",
+  "description": "re-implementing the /scene command (and teleporting to the start point of each map)",
+  "version": "1.0.0",
+  "authors": [ "ElectroGem and snoobi-seggs" ],
+  
+  "mainClass": "electrogem.sceneteleporter.SceneTeleporter",
+  
+  "comments": [
+    "because stuff like that need to be made simple..."
+  ]
+}
