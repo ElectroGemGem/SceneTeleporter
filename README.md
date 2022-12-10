@@ -9,7 +9,7 @@ this was built for GrassCutter server version 'grasscutter-1.4.3-dev', <br>earli
 Please do not leave domain via the "leave domain?" question promt, it will not teleport you right <br>
 you must use the scene teleporter commands each time you want to go from one scene to another... (except if you teleporting out back using the world map)
 <br>and also please do not teleport to scenes that are old time-limited events scene from previous versions,
-since hoyoverse deleted those scenes data and you would just free fall endlessly into the map..
+since hoyoverse deleted those scenes data and you would just free fall endlessly into the map...
 <br> <br>
 huge thanks to: snoo x orang for helping me out, thanks man.
 
@@ -39,5 +39,5 @@ scene `born_pos` & `born_rot` metadata is located at:
 # Known Issues:
 
 * can't teleport to scenes 2 to 9 - there is some weird formatting issue with those for some reason, but i think they not really usable anyway, so meh..
-* can't teleport to some scenes - usually its either because they are empty/debug/not supposed to be played or missing info in the scene{sceneid}.lua file in `Grasscutter\Resources\Scripts\Scene\<your sceneID>`
+* can't teleport to some scenes - usually its either because they are empty/debug/not supposed to be played or missing info in the scene{sceneid}.lua file in `Grasscutter\Resources\Scripts\Scene\<your sceneID>` (if its not there don't try to add/change it you might break the game)
 * teleporting to some scenes getting you to a freefall - again as mentioned above, its due to it being empty/debug/not supposed to be played...
